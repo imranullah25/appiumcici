@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-07T14:08:35 PKT" name="Default suite" finished-at="2021-12-07T14:09:55 PKT" duration-ms="79939">
+    <groups>
+    </groups>
+    <test started-at="2021-12-07T14:08:35 PKT" name="Default test" finished-at="2021-12-07T14:09:55 PKT" duration-ms="79939">
+      <class name="Test_Cases.Flow_registered_user">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Test_Cases.Flow_registered_user@1b2abca6]" started-at="2021-12-07T14:08:35 PKT" name="initialize" finished-at="2021-12-07T14:08:50 PKT" duration-ms="14785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="Home_Page_1()[pri:1, instance:Test_Cases.Flow_registered_user@1b2abca6]" started-at="2021-12-07T14:08:50 PKT" name="Home_Page_1" finished-at="2021-12-07T14:08:58 PKT" duration-ms="7199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page_1 -->
+        <test-method signature="Sign_in_to_DoC()[pri:2, instance:Test_Cases.Flow_registered_user@1b2abca6]" started-at="2021-12-07T14:08:58 PKT" name="Sign_in_to_DoC" finished-at="2021-12-07T14:09:14 PKT" duration-ms="16545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_in_to_DoC -->
+        <test-method signature="Home_Page()[pri:3, instance:Test_Cases.Flow_registered_user@1b2abca6]" started-at="2021-12-07T14:09:14 PKT" name="Home_Page" finished-at="2021-12-07T14:09:22 PKT" duration-ms="7594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page -->
+        <test-method signature="None_of_these()[pri:4, instance:Test_Cases.Flow_registered_user@1b2abca6]" started-at="2021-12-07T14:09:22 PKT" name="None_of_these" finished-at="2021-12-07T14:09:29 PKT" duration-ms="7765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- None_of_these -->
+        <test-method signature="Tell_us_about_you()[pri:5, instance:Test_Cases.Flow_registered_user@1b2abca6]" started-at="2021-12-07T14:09:29 PKT" name="Tell_us_about_you" finished-at="2021-12-07T14:09:48 PKT" duration-ms="18753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tell_us_about_you -->
+        <test-method signature="Doctors_Page()[pri:6, instance:Test_Cases.Flow_registered_user@1b2abca6]" started-at="2021-12-07T14:09:48 PKT" name="Doctors_Page" finished-at="2021-12-07T14:09:54 PKT" duration-ms="5441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Doctors_Page -->
+        <test-method signature="Doctors_Profile()[pri:7, instance:Test_Cases.Flow_registered_user@1b2abca6]" started-at="2021-12-07T14:09:54 PKT" name="Doctors_Profile" finished-at="2021-12-07T14:09:55 PKT" duration-ms="1749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Doctors_Profile -->
+      </class> <!-- Test_Cases.Flow_registered_user -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
