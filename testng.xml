@@ -5,6 +5,7 @@
     <classes>
  
       <class name="Test_Cases.Flow_registered_user"/>
+   <!--     <class name="Test_Cases.Flow_registered_user"/> --> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
